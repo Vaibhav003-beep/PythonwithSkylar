@@ -1,0 +1,28 @@
+### Lists
+1. Write a Python program to find the largest number in a given list.
+2. Write a program to remove duplicates from a list.
+3. Write a Python program to reverse a list without using the `reverse()` method.
+4. Given a list of numbers, write a program to calculate the sum of all even numbers.
+### Loops
+5. Write a Python program to print numbers from 1 to 100 using a loop.
+6. Write a Python program to print all even numbers from 1 to 50 using a `for` loop.
+7. Write a program to calculate the factorial of a number using a `while` loop.
+9. Write a program that asks the user to enter a number and keeps asking until they enter a positive number.
+### If-Else Statements
+10. Write a Python program to check if a given number is positive, negative, or zero.
+11. Write a program to check whether a number is even or odd.
+12. Write a Python program that takes three numbers as input and prints the largest one.
+13. Write a program to determine whether a given year is a leap year or not.
+14. Write a Python program to check if a character is a vowel or consonant.
+### Strings
+15. Write a Python program to count the number of vowels in a given string.
+16. Write a program to check if a given string is a palindrome (reads the same forward and backward).
+17. Write a Python program to reverse a string without using slicing (`[::-1]`).
+18. Write a program to remove all spaces from a string.
+19. Write a program to count the occurrences of a specific word in a string.
+### Functions
+20. Write a Python function that takes a number as input and returns `True` if it is prime, otherwise `False`.
+21. Write a function that takes two numbers and returns their greatest common divisor (GCD).
+22. Write a Python function that takes a list of numbers and returns a new list containing only the even numbers.
+23. Write a recursive function to compute the Fibonacci series up to `n` terms.
+24. Write a function that checks if a given string is a **pangram** (contains every letter of the alphabet at least once).
